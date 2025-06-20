@@ -1,8 +1,7 @@
 {
-  "version": 2,
   "functions": {
     "api/sync-stats.js": {
-      "runtime": "@vercel/node"
+      "runtime": "nodejs18.x"
     }
   }
 }
