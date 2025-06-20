@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/sync-stats.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
